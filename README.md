@@ -78,6 +78,10 @@ Enter the text to replace: sample
 Enter the new text: My_new
 ✅ Renaming complete!
 ```
+**Example Image**
+<br>
+![GitBash- File Renaming](https://github.com/user-attachments/assets/bfaf98d7-8bd2-4f67-b3b8-781863c64385)
+
 ### **💻 2. Run in PowerShell (Windows with Git Bash not installed)**  
 
 ### ✅ **Step 1: Open PowerShell**
@@ -106,6 +110,9 @@ Enter the text to replace: sample
 Enter the new text: My_new
 ✅ Renaming complete!
 ```
+**Example Image**
+<br>
+![Powershell- File Renaming](https://github.com/user-attachments/assets/09048169-ffcc-4551-a5e2-2e1c65fab13d)
 
 ## 🛑 Troubleshooting & FAQs
 
